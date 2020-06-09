@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/libs/annotations-13.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/libs/bson-3.4.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/libs/cache-api-1.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/libs/ignite-core-1.9.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/libs/ignite-shmem-1.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/com.google.guava-all-1.0.0.rc5.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/joda-time-2.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/annotations-13.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/aopalliance-repackaged-2.4.0-b34.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/API1_Insta.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/API1_Insta_KT.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/API2_Visitor.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/argparse4j-0.5.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/cache-api-1.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/connect-api-0.10.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/connect-file-0.10.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/connect-json-0.10.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/connect-runtime-0.10.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/gson-2.6.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/guava-18.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/hk2-api-2.4.0-b34.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/hk2-locator-2.4.0-b34.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/hk2-utils-2.4.0-b34.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/httpclient-4.5.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/httpcore-4.4.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/Ignite_classes.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/Ignite_classes_KT.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/ignite-core-1.9.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/ignite-kafka-1.9.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/ignite-shmem-1.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/iPres.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/iPres_service.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/jackson-annotations-2.6.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/jackson-core-2.6.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/jackson-databind-2.6.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/jackson-jaxrs-base-2.6.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/jackson-jaxrs-json-provider-2.6.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/jackson-module-jaxb-annotations-2.6.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/javassist-3.18.2-GA.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/javax.annotation-api-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/javax.inject-1.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/javax.inject-2.4.0-b34.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/javax.ws.rs-api-2.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/jblas-1.2.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/jersey-client-2.22.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/jersey-common-2.22.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/jersey-container-servlet-2.22.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/jersey-container-servlet-core-2.22.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/jersey-guava-2.22.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/jersey-media-jaxb-2.22.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/jersey-server-2.22.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/jetty-continuation-9.2.15.v20160210.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/jetty-http-9.2.15.v20160210.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/jetty-io-9.2.15.v20160210.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/jetty-security-9.2.15.v20160210.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/jetty-server-9.2.15.v20160210.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/jetty-servlet-9.2.15.v20160210.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/jetty-servlets-9.2.15.v20160210.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/jetty-util-9.2.15.v20160210.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/joda-time-2.9.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/jopt-simple-4.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/kafka_2.10-0.10.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/kafka_2.10-0.10.0.0-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/kafka_2.10-0.10.0.0-scaladoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/kafka_2.10-0.10.0.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/kafka_2.10-0.10.0.0-test.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/kafka_2.10-0.10.0.0-test-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/kafka-clients-0.10.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/kafka-clients-0.10.0.0_1.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/kafka-log4j-appender-0.10.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/kafka-streams-0.10.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/kafka-streams-examples-0.10.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/kafka-tools-0.10.0.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/log4j-1.2.17.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/lz4-1.3.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/lz4-1.3.0_1.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/metrics-core-2.2.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/mm.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/mongo-java-driver-3.4.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/osgi-resource-locator-1.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/PAKDD_API0_Compute.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/reflections-0.9.10.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/rocksdbjni-4.4.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/scala-library-2.10.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/slf4j-api-1.7.21.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/slf4j-api-1.7.21_1.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/slf4j-api-1.7.25.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/slf4j-log4j12-1.7.21.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/slf4j-simple-1.7.25.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/snappy-java-1.1.2.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/snappy-java-1.1.2.4_1.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/validation-api-1.1.0.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/viewIgniteRunnable.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/zkclient-0.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/iPrescribe/iPrescribe Jars/zookeeper-3.4.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
